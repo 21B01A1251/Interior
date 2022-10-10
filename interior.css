@@ -1,0 +1,66 @@
+body{
+    background-image: url(https://www.magnonindia.com/wp-content/uploads//2018/06/living-2-2-1080x675.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-attachment: fixed;
+}
+.navbar{
+    margin: 20px;
+    list-style: none;
+}
+ul{
+    display: inline;
+    color:white;
+}
+.navbar li a{
+    text-decoration: none;
+    color:white;
+    
+}
+.hoveritem a:hover{
+    padding:10px 30px;
+    border-radius: 30px;
+    border-color: rgba(1,1,1,1);
+    
+}
+a:hover{
+    background-color:black;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 50px;
+    color: azure;
+}
+button{
+    border-color: rgba();
+    color:aliceblue;
+    padding:10px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px 3px;
+    border-radius: 40px;
+    background-color: transparent;
+}
+button:hover{
+    background-color:black;
+}
+.hoveritem li a{
+    display: auto;
+    padding-left:50px;
+
+    
+    
+}
+li{
+    float:left;
+    list-style: none;
+    font-size: 20px;
+    margin-top: 50px;
+    text-decoration: none;
+    
+}
